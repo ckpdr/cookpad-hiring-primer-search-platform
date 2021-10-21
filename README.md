@@ -1,6 +1,6 @@
 # Cookpad - Search Platform - Technical exercise primer
 
-This is a primer to prepare you for the Search Platform technical exercise. Please read through this repo before the date of your exercise. This will minimise the amount of set-up time you need to do.
+This is a primer to prepare you for the Search Platform technical exercise. Please read through this repo before the date of your exercise. This will minimise the amount of time you need to spend setting up during the exercise.
 
 You can find instructions on setting up the exercise prerequisites [here](PREREQUISITES.md).
 
