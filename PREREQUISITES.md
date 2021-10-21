@@ -6,7 +6,7 @@ Follow this guide to make sure that you have all the prerequisites needed for th
 
 In the exercise you will encounter Python source code, and its important you are able to install dependencies and run the code.
 
-> :information_source: Don't worry if you're unfamiliar with Python. You should be able to complete the task without an intimate understanding of Python - these instructions in the primer provide cover what you need to know.
+> :information_source: Don't worry if you're unfamiliar with Python. You should be able to complete the task without an intimate understanding of Python source code - these instructions should cover everything you need to know.
 
 ## Install the correct Python version
 
