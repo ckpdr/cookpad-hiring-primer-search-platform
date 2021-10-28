@@ -3,7 +3,7 @@
 Someone from our team will grant you access to a private Github repo at a time that's been pre-arranged with you. The
 repo will contain the instructions with the problem's description.
 
-You should work on the exercise for no more than 3 hours.
+**Duration**: You should work on the exercise for no more than 3 hours, but you may split this over non-consecutive sessions.
 
 ## Guidance
 
@@ -34,8 +34,8 @@ During the exercise:
 - **IMPORTANT:** Once you have access, you should **immediately fork** the repository. This way we can make sure that
   there won't be any technical issues later for pushing the solution. You should ensure your fork is a **private
   repository** (this is the default Github behaviour).
-- You should work on the problem for no more than 3 hours. An incremental Git commit history is encouraged but not
-  required.
+- You should work on the problem for no more than 3 hours in total. An incremental Git commit history is encouraged but
+  not required.
 
 To submit the exercise:
 
